@@ -11,4 +11,6 @@ public class Constantes {
         BLANCO, NEGRO, ROJO, AZUL, GRIS
     }
     Colores colores;
+
+   public static double cargaDefecto = 5;
 }
