@@ -15,7 +15,7 @@ public class Main {
 
         misVideoJuegos[0] = new Videojuego("Crash Bandicoot N. Sane Trilogy", 40, "Acción", "Activision");
         misVideoJuegos[1] = new Videojuego("Candy Crush Saga", 523, "Lógica", "King");
-        misVideoJuegos[2] = new Videojuego("Zombie Tsunam", 100, "Plataforma", "Mobigame");
+        misVideoJuegos[2] = new Videojuego("Zombie Tsunami", 100, "Plataforma", "Mobigame");
         misVideoJuegos[3] = new Videojuego("Just Dance", 10, "Música", "Ubisoft");
         misVideoJuegos[4] = new Videojuego("Super Mario Bros", 30, "Aventura", "Nintendo");
 

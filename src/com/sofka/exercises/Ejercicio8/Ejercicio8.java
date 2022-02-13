@@ -13,8 +13,6 @@ public class Ejercicio8 {
         System.out.println("Ingrese un día de la semana");
         String dia = sc.nextLine().toLowerCase();
 
-        //TODO: ignorar signos de puntuacion
-
         switch (dia){
             case "lunes":
                 System.out.println("Es un día laboral");

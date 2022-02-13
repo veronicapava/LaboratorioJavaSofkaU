@@ -16,7 +16,7 @@ public class Main {
         int edad = sc.nextInt();
         System.out.println("Ingresa tu peso en kg");
         float peso = sc.nextFloat();
-        System.out.println("Ingresa tu altura en metros");
+        System.out.println("Ingresa tu altura en metros. (Usar coma)");
         float altura = sc.nextFloat();
 
 

@@ -33,10 +33,10 @@ public class Main {
            }
        }
 
-        System.out.println("Precio total de lavadoras: " + precioFinalLavadoras);
-        System.out.println("Precio total de televisores: " + precioFinalTelevisores);
-        System.out.println("Precio total de electrodomesticos: " + precioFinalElectrodomesticos);
+        System.out.println("Precio total de lavadoras: $" + precioFinalLavadoras);
+        System.out.println("Precio total de televisores: $" + precioFinalTelevisores);
+        System.out.println("Precio total de electrodomesticos: $" + precioFinalElectrodomesticos);
 
-        System.out.println("Precio de todos los electrodomesticos: " + (precioFinalLavadoras + precioFinalTelevisores + precioFinalElectrodomesticos));
+        System.out.println("Precio de todos los electrodomesticos: $" + (precioFinalLavadoras + precioFinalTelevisores + precioFinalElectrodomesticos));
     }
 }
